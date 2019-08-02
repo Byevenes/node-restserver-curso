@@ -2,3 +2,7 @@ user: zneel
 pass: 1BWYIieZ1OhXtxKh
 
 Base de datos del Mongo Atlas
+
+
+MongoDB URL
+mongodb+srv://zneel:1BWYIieZ1OhXtxKh@cluster0-o7r4j.mongodb.net/cafe
